@@ -1,0 +1,81 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022000003,308,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,0,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,11,1,1,20201223,BOS,MIL
+Shot Chart Detail,0022000006,166,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,1,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,262,1,1,20201225,MIL,GSW
+Shot Chart Detail,0022000006,178,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,1,1,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-9,126,1,1,20201225,MIL,GSW
+Shot Chart Detail,0022000006,582,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,10,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,2,1,1,20201225,MIL,GSW
+Shot Chart Detail,0022000051,202,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,32,1,1,20201229,MIA,MIL
+Shot Chart Detail,0022000051,252,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-106,93,1,1,20201229,MIA,MIL
+Shot Chart Detail,0022000051,603,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,4,5,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-169,130,1,1,20201229,MIA,MIL
+Shot Chart Detail,0022000051,610,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,101,235,1,1,20201229,MIA,MIL
+Shot Chart Detail,0022000051,642,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,117,192,1,1,20201229,MIA,MIL
+Shot Chart Detail,0022000058,207,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,67,143,1,1,20201230,MIA,MIL
+Shot Chart Detail,0022000058,252,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-13,284,1,1,20201230,MIA,MIL
+Shot Chart Detail,0022000058,256,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,29,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,35,1,1,20201230,MIA,MIL
+Shot Chart Detail,0022000058,589,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,8,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,69,1,1,20201230,MIA,MIL
+Shot Chart Detail,0022000073,158,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-110,253,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000073,183,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,98,246,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000073,482,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,0,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-67,267,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000073,514,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,10,56,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,55,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000073,658,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,2,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,151,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000073,673,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,1,28,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,136,182,1,1,20210101,MIL,CHI
+Shot Chart Detail,0022000099,184,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,174,1,1,20210104,MIL,DET
+Shot Chart Detail,0022000099,454,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,1,33,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,167,1,1,20210104,MIL,DET
+Shot Chart Detail,0022000099,528,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,195,1,1,20210104,MIL,DET
+Shot Chart Detail,0022000099,592,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20210104,MIL,DET
+Shot Chart Detail,0022000113,127,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,1,2,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,26,1,1,20210106,MIL,DET
+Shot Chart Detail,0022000113,209,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,25,1,1,20210106,MIL,DET
+Shot Chart Detail,0022000113,222,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,109,1,1,20210106,MIL,DET
+Shot Chart Detail,0022000129,680,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,178,1,1,20210108,MIL,UTA
+Shot Chart Detail,0022000151,172,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,19,251,1,1,20210111,ORL,MIL
+Shot Chart Detail,0022000151,228,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,4,1,1,20210111,ORL,MIL
+Shot Chart Detail,0022000151,598,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-14,1,1,20210111,ORL,MIL
+Shot Chart Detail,0022000151,627,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,3,51,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20210111,ORL,MIL
+Shot Chart Detail,0022000165,200,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,238,1,1,20210113,DET,MIL
+Shot Chart Detail,0022000165,214,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,121,1,1,20210113,DET,MIL
+Shot Chart Detail,0022000165,231,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-50,90,1,1,20210113,DET,MIL
+Shot Chart Detail,0022000165,251,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,5,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,160,1,1,20210113,DET,MIL
+Shot Chart Detail,0022000165,562,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,7,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,4,1,1,20210113,DET,MIL
+Shot Chart Detail,0022000182,566,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,8,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,75,1,1,20210115,MIL,DAL
+Shot Chart Detail,0022000209,515,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,11,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,164,1,1,20210118,BKN,MIL
+Shot Chart Detail,0022000209,521,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,10,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,122,1,1,20210118,BKN,MIL
+Shot Chart Detail,0022000226,185,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,34,1,1,20210121,MIL,LAL
+Shot Chart Detail,0022000254,183,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-187,196,1,1,20210124,MIL,ATL
+Shot Chart Detail,0022000254,213,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,7,41,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,16,1,1,20210124,MIL,ATL
+Shot Chart Detail,0022000254,223,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,76,146,1,1,20210124,MIL,ATL
+Shot Chart Detail,0022000277,209,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,50,1,1,20210127,TOR,MIL
+Shot Chart Detail,0022000277,290,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-26,1,1,20210127,TOR,MIL
+Shot Chart Detail,0022000277,550,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,213,1,1,20210127,TOR,MIL
+Shot Chart Detail,0022000293,368,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,180,1,1,20210129,NOP,MIL
+Shot Chart Detail,0022000293,386,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,174,1,1,20210129,NOP,MIL
+Shot Chart Detail,0022000293,444,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,3,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,61,1,1,20210129,NOP,MIL
+Shot Chart Detail,0022000299,148,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,1,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,35,253,1,1,20210130,CHA,MIL
+Shot Chart Detail,0022000299,304,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,1,26,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,57,1,1,20210130,CHA,MIL
+Shot Chart Detail,0022000316,239,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,20,200,1,1,20210201,MIL,POR
+Shot Chart Detail,0022000316,259,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,5,29,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-59,245,1,1,20210201,MIL,POR
+Shot Chart Detail,0022000316,271,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,4,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,1,20210201,MIL,POR
+Shot Chart Detail,0022000316,527,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,8,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,149,101,1,1,20210201,MIL,POR
+Shot Chart Detail,0022000316,623,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,147,233,1,1,20210201,MIL,POR
+Shot Chart Detail,0022000329,199,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,8,41,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,207,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,222,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,254,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,4,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,46,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,308,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,0,35,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,36,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,496,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,10,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-44,146,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,523,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,8,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,25,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,549,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,7,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,264,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000329,600,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,3,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,88,1,1,20210203,MIL,IND
+Shot Chart Detail,0022000346,282,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,5,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,63,185,1,1,20210205,CLE,MIL
+Shot Chart Detail,0022000346,652,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,40,292,1,1,20210205,CLE,MIL
+Shot Chart Detail,0022000346,700,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,0,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,119,1,1,20210205,CLE,MIL
+Shot Chart Detail,0022000346,703,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,0,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,116,1,1,20210205,CLE,MIL
+Shot Chart Detail,0022000357,214,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,6,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000357,256,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,113,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000357,285,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,188,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000357,538,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,7,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,187,200,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000357,551,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,6,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,3,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000357,577,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,145,1,1,20210206,CLE,MIL
+Shot Chart Detail,0022000373,17,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,1,10,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,32,1,1,20210208,DEN,MIL
+Shot Chart Detail,0022000373,153,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,2,10,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,106,1,1,20210208,DEN,MIL
+Shot Chart Detail,0022000373,318,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,106,247,1,1,20210208,DEN,MIL
+Shot Chart Detail,0022000373,333,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,9,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-177,115,1,1,20210208,DEN,MIL
+Shot Chart Detail,0022000373,364,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,3,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,221,1,1,20210208,DEN,MIL
+Shot Chart Detail,0022000373,555,1627854,Bryn Forbes,1610612749,Milwaukee Bucks,4,6,11,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,-4,1,1,20210208,DEN,MIL
